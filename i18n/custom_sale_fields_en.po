@@ -1,0 +1,40 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: custom_sale_fields 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-20 12:00+0000\n"
+"PO-Revision-Date: 2024-07-20 12:00+0000\n"
+"Last-Translator: Lautaro de Angelis <your_email@example.com>\n"
+"Language-Team: English\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: models/sale_order.py:5
+msgid "Número de entradas del láser"
+msgstr "Laser Entries"
+
+#: models/sale_order.py:6
+msgid "Longitud"
+msgstr "Length"
+
+#: models/sale_order.py:6
+msgid "Longitud (con desperdicios de pieza)"
+msgstr "Length (including piece waste)"
+
+#: models/sale_order.py:7
+msgid "Anchura"
+msgstr "Width"
+
+#: models/sale_order.py:7
+msgid "Anchura (con desperdicios de pieza)"
+msgstr "Width (including piece waste)"
+
+#: models/sale_order.py:8
+msgid "Altura"
+msgstr "Height"
+
+#: models/sale_order.py:8
+msgid "Altura (con desperdicios de pieza)"
+msgstr "Height (including piece waste)"
